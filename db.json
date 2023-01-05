@@ -1,92 +1,9 @@
 {
-  "posts": [
-    {
-      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudHxlbnwwfHwwfHw%3D&w=1000&q=80",
-      "name": "Kings",
-      "price": "200",
-      "rating": "4.5",
-      "id": 1
-    },
-    {
-      "image": "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?cs=srgb&dl=pexels-chan-walrus-941861.jpg&fm=jpg",
-      "name": "Anamaa",
-      "price": "350",
-      "rating": "4.1",
-      "id": 2
-    },
-    {
-      "image": "https://img.freepik.com/premium-photo/cozy-restaurant-with-people-waiter_175935-230.jpg?w=2000",
-      "name": "king II",
-      "price": "500",
-      "rating": "4.8",
-      "id": 3
-    },
-    {
-      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudCUyMGZvb2R8ZW58MHx8MHx8&w=1000&q=80",
-      "name": "Zam Zam",
-      "price": "501",
-      "rating": "4.2",
-      "id": 4
-    },
-    {
-      "image": "https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "name": "High Point",
-      "price": "250",
-      "rating": "3.6",
-      "id": 5
-    },
-    {
-      "image": "https://etimg.etb2bimg.com/photo/75161189.cms",
-      "name": "Nova ",
-      "price": "251",
-      "rating": "3.2",
-      "id": 6
-    },
-    {
-      "image": "https://img.etimg.com/thumb/msid-88860361,width-300,imgsize-75800,,resizemode-4,quality-100/restaurant.jpg",
-      "name": "khanva",
-      "price": "211",
-      "rating": "2.9",
-      "id": 7
-    },
-    {
-      "image": "https://t3.ftcdn.net/jpg/03/24/73/92/360_F_324739203_keeq8udvv0P2h1MLYJ0GLSlTBagoXS48.jpg",
-      "name": "bulandi",
-      "price": "301",
-      "rating": "3.8",
-      "id": 8
-    },
-    {
-      "image": "https://cdn.pixabay.com/photo/2014/09/17/20/26/restaurant-449952__340.jpg",
-      "name": "Disturb",
-      "price": "210",
-      "rating": "2.5",
-      "id": 9
-    },
-    {
-      "image": "https://media.istockphoto.com/photos/delicious-meal-picture-id1295387240?b=1&k=20&m=1295387240&s=170667a&w=0&h=KtWYFjSBgpNgVkE3P-WKZ2F6V-VxyUBBtJIP_k8IANM=",
-      "name": "BurgerLand",
-      "price": "600",
-      "rating": "4.9",
-      "id": 10
-    },
-    {
-      "image": "https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/content13085.jpg",
-      "name": "Foody1",
-      "price": "900",
-      "rating": "5",
-      "id": 11
-    },
-    {
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5kThOsZVO9-ivRYVhUihiXjkcCPrLD92vTw&usqp=CAU",
-      "name": "Kings 3",
-      "price": "350",
-      "rating": "4.0",
-      "id": 12
-    }
-  ],
-  "comments": [],
-  "profile": {
-    "name": "typicode"
+    "cars": [
+    
+    ],
+  "wishlisted_cars": [
+      
+    ]
   }
-}
+  
